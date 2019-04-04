@@ -29,9 +29,7 @@
 Times: 9AM-5:30PM
 
 Location: TADA! 15 West 28th Street 3rd floor or theater
-
 Price: $145
-
 1-Day Camp Dates & Themes:
 
 Monday, April 22- The Greatest Show
