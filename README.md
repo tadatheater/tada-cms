@@ -20,7 +20,7 @@
 [Click Here](https://tadatheater.secure.force.com/Events/CnP_PaaS_EVT__ExternalRegistrationPage?event_id=a1g1J000006VHO9QAO)
 
 ## Rising Star Workshop
-[Click Here])(https://tadatheater.secure.force.com/Events/CnP_PaaS_EVT__ExternalRegistrationPage?event_id=a1g1J0000073e7OQAQ)
+[Click Here](https://tadatheater.secure.force.com/Events/CnP_PaaS_EVT__ExternalRegistrationPage?event_id=a1g1J0000073e7OQAQ)
 
 ## Game Changers Tickets
 [Click Here](https://tadayouththeater.secure.force.com/ticket/#details_a0S6A000001WHqGUAW)
