@@ -1,8 +1,6 @@
 ![Tada! Theater](/assets/homepage/header.png)
 
-## Questions? Please call us at 212-252-1619
-
-### Click the links below to register for camps or to buy tickets.
+# Click the links below to register for camps or to buy tickets.
 
 ### April School Break Camps
 [Click Here](https://tadatheater.secure.force.com/Events/CnP_PaaS_EVT__ExternalRegistrationPage?event_id=a1g1J000006d5veQAA)
