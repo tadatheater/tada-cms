@@ -1,6 +1,6 @@
-![Tada! Theater](/assets/homepage/homepageheaderv2.png)
+![Tada! Theater](/assets/homepage/header.png)
 
-## Our site is currently under construction. We will be back soon.
+## Questions? Please call us at 212-252-1619
 
 ### Click the links below to register for camps or to buy tickets.
 
@@ -36,3 +36,5 @@
 
 ### Donor Privacy Policy
 [Click Here](https://docs.google.com/document/d/1NXKWgRszbjfXcatgD64wCiqQOqgrejM2RwN52qv2mtY/edit)
+
+## Questions?  Please call us at 212-252-1619
